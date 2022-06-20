@@ -22,5 +22,5 @@ Each team or member will have precisely predefined responsibility in the project
 
 ##Area Feature in ASP.NET Core
 	ASP.NET Core provides an area feature for creating a modular web application, where each module is created as area in an ASP.NET Core application. 
-Microsoft Documentation: https://docs.microsoft.com/en-us/aspnet/core/mvc/controllers/areas?view=aspnetcore-2.2
+Microsoft Documentation: https://docs.microsoft.com/en-us/aspnet/core/mvc/controllers/areas?view=aspnetcore-6.0
 
